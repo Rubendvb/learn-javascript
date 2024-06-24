@@ -1,0 +1,8 @@
+.clickable {
+  all: unset;
+  outline: revert;
+}
+
+button {
+  cursor: pointer;
+}
